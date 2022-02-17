@@ -13,4 +13,3 @@ export default function Header() {
     </header>
   );
 }
-// src/images/troll-face.png
